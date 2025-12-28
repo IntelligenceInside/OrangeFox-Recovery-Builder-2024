@@ -23,11 +23,11 @@ on:
       DEVICE_PATH:
         description: 'Specify your device path.'
         required: true
-        default: 'device/xiaomi/marble'
+        default: 'device/xiaomi/merlinnfc'
       DEVICE_NAME:
         description: 'Specify your Device Codename.'
         required: true
-        default: 'marble'
+        default: 'merlinnfc'
       BUILD_TARGET:
         description: 'Specify your Build Target'
         required: true
